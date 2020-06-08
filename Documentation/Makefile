@@ -1,3 +1,4 @@
+#new
 # Guard against environment variables
 MAN1_TXT =
 MAN5_TXT =
